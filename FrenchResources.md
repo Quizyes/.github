@@ -14,10 +14,13 @@
 
 [Lexilogos](https://www.lexilogos.com/francais_dictionnaire.htm): Collection of links to various and sundry French dictionaries, old and new.
 
-## Reference Grammar
+## Reference Grammars
 [A French Reference Grammar](https://archive.org/details/frenchreferenceg0000hfer/mode/2up): In English.
 
 [Grevisse](https://archive.org/details/lebonusagegramma0000grev): En Français.
+
+## Pronunciation
+[IPA Lookup](https://open-dict-data.github.io/ipa-lookup/fr/?#): For French words and phrases.
 
 ## Text Collections
 [ARTFL](https://libguides.sjc.edu/az/databases): Link goes to the Greenfield Library Electronic Resrouces page, whence you can sign in to this database of French texts.
