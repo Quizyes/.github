@@ -24,3 +24,6 @@
 
 ## Text Collections
 [ARTFL](https://libguides.sjc.edu/az/databases): Link goes to the Greenfield Library Electronic Resrouces page, whence you can sign in to this database of French texts.
+
+## General Remarks on Grammar
+[Obligatory split infinitives](https://itre.cis.upenn.edu/~myl/languagelog/archives/000901.html): Not only is it grammatically acceptable to; it's sometimes obligatory.
