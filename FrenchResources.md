@@ -1,13 +1,14 @@
 # French Language Resources
 
-## Dictionaries
+## Quizzes
+[FrenchQuiz](https://quizyes.github.io/FrenchQuiz/): Various verb quizzes keyed to P&M.
 
-### French-English
+## French-English Dictionaries
 [Collins](https://www.collinsdictionary.com/us/dictionary/french-english): Very good, with good examples of usage and sensible default English translations.
 
 [WordReference](https://www.wordreference.com/): Collection of dictionaries and a dedicated forum frequented by professional translators.
 
-### French only
+## French-only Dictionaries
 [Le Robert](https://dictionnaire.lerobert.com/): Contemporary French dictionary.
 
 [Dictionnaires d'autrefois](https://artflsrv04.uchicago.edu/philologic4.7/publicdicos/): A collection of old French dictionaries (17th-early 20th c.).
@@ -20,10 +21,10 @@
 [Grevisse](https://archive.org/details/lebonusagegramma0000grev): En Français.
 
 ## Pronunciation
-[IPA Lookup](https://open-dict-data.github.io/ipa-lookup/fr/?#): For French words and phrases.
+[IPA Lookup](https://open-dict-data.github.io/ipa-lookup/fr/?#): Gives IPA pronunciation info for French words and phrases.
 
 ## Text Collections
-[ARTFL](https://libguides.sjc.edu/az/databases): Link goes to the Greenfield Library Electronic Resrouces page, whence you can sign in to this database of French texts.
+[ARTFL](https://libguides.sjc.edu/az/databases): Greenfield Library Electronic Resrouces page, whence you can sign in to this database of French texts.
 
 ## Grammatical Miscellany
 (Don't let the) [Crazies win](https://languagelog.ldc.upenn.edu/nll/?p=123): Notes on supposed purists about grammar and why not to let them "win."
